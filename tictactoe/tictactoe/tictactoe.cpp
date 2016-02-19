@@ -14,9 +14,6 @@ int main()
 	cout << "2 + 4 = " << add(2, 4) << endl;
 	cout << "Wasn't that easy?" << endl;
 
-
-
-
     return 0;
 }
 
